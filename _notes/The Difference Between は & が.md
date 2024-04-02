@@ -19,4 +19,4 @@ In English a sentence is usually consisted of a subject and a verb: S+V. For exa
 Traditionally, here's how が is used:
 
 1. が marks the subject: 桜が咲いた　The cherry blossoms are blooming.
-2. が emphasizes a subject by eliminating other options: 
+2. が emphasizes a subject by eliminating other options: #todo
